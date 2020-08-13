@@ -1,4 +1,4 @@
-# Fall 2019 BYGB 7978 Web Analytics Final Project Coding Summary
+# Auto Portfolio Management
 ---
 
 * In this project, we select 505 stocks of `S&P 500` companies as our initial stock pool. Then we crawl some key financial ratios from Yahoo Finance to filter these stocks. After several rounds of filter based on their financial ratio performance, we keep **68 stocks**. 
